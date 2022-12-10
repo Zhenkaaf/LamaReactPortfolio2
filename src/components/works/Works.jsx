@@ -30,7 +30,6 @@ const Works = () => {
             desc : 'Lorem ipsum dolor sit amet consectetur, adipisicing elit. Blanditiis quaerat magni laudantium',
             img: 'https://images.pexels.com/photos/1176618/pexels-photo-1176618.jpeg?auto=compress&cs=tinysrgb&w=600'
         }
-
     ];
 
     const handleClick = (way) => {
