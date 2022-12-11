@@ -1,3 +1,6 @@
+@import "../../global.scss";
+
+
 .works {
     background-color: crimson;
     display: flex;
@@ -10,6 +13,10 @@
         position: absolute;
         color: white;
         cursor: pointer;
+
+        @include mobile {
+            display: none;
+        }
 
         &.left {
             left: 100px;
@@ -26,6 +33,11 @@
         left: 0;
         transition: all 1s ease-out;
         /* left: -100vw; */
+        @include mobile {
+            height: 100vh;
+            flex-direction: column;
+            justify-content: center;
+        }
 
         .container {
             width: 100vw;
@@ -41,6 +53,12 @@
                 display: flex;
                 align-items: center;
                 justify-content: center;
+
+                @include mobile {
+                    width: 90%;
+                    height: 180px;
+                    margin: 20px 0px;
+                }
 
                 .left {
                     flex: 4;

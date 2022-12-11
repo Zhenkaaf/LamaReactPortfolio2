@@ -27,6 +27,10 @@
                 text-decoration: none;
                 color: inherit;
                 margin-right: 40px;
+
+                @include mobile {
+                    display: none;
+                }
             }
 
             .itemContainer {
@@ -41,6 +45,11 @@
                 span {
                     font-size: 15px;
                     font-weight: 500;
+                }
+                &:last-child {
+                    @include mobile {
+                        display: none;
+                    }
                 }
             }
         }
