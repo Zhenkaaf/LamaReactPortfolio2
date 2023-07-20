@@ -637,6 +637,10 @@
     different set of beliefs like absolute authority and strict obedience. You
     can imagine many ways to try to get more people to vote in a democracy, but
     such behavior change would never get off the ground in a dictatorship.
+
+
+
+    
     That’s not the identity of the system. Voting is a behavior that is
     impossible under a certain set of beliefs. A similar pattern exists whether
     we are discussing individuals, organizations, or societies. There are a set
