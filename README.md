@@ -632,10 +632,6 @@
     different set of beliefs like absolute authority and strict obedience. You
     can imagine many ways to try to get more people to vote in a democracy, but
     such behavior change would never get off the ground in a dictatorship.
-
-
-
-    
     That’s not the identity of the system. Voting is a behavior that is
     impossible under a certain set of beliefs. A similar pattern exists whether
     we are discussing individuals, organizations, or societies. There are a set
@@ -710,7 +706,14 @@
     believe what your culture believes (group identity) or to do what upholds
     your self- image (personal identity), even if it’s wrong. The biggest
     barrier to positive change at any level—individual, team, society—is
-    identity conflict. Good habits can make rational sense, but if they conflict
+    identity conflict. 
+    
+    
+    
+    
+    
+    
+    Good habits can make rational sense, but if they conflict
     with your identity, you will fail to put them into action. On any given day,
     you may struggle with your habits because you’re too busy or too tired or
     too overwhelmed or hundreds of other reasons. Over the long run, however,
