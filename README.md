@@ -610,12 +610,7 @@
     focusing on what they want to achieve. This leads us to outcome-based
     habits. The alternative is to build identity-based habits. With this
     approach, we start by focusing on who we wish to become. OUTCOME-BASED
-    HABITS IDENTITY-BASED HABITS FIGURE 4: 
-    
-    
-    
-    
-    With outcome-based habits, the focus
+    HABITS IDENTITY-BASED HABITS FIGURE 4: With outcome-based habits, the focus
     is on what you want to achieve. With identity-based habits, the focus is on
     who you wish to become. Imagine two people resisting a cigarette. When
     offered a smoke, the first person says, “No thanks. I’m trying to quit.” It
