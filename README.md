@@ -706,14 +706,7 @@
     believe what your culture believes (group identity) or to do what upholds
     your self- image (personal identity), even if it’s wrong. The biggest
     barrier to positive change at any level—individual, team, society—is
-    identity conflict. 
-    
-    
-    
-    
-    
-    
-    Good habits can make rational sense, but if they conflict
+    identity conflict. Good habits can make rational sense, but if they conflict
     with your identity, you will fail to put them into action. On any given day,
     you may struggle with your habits because you’re too busy or too tired or
     too overwhelmed or hundreds of other reasons. Over the long run, however,
@@ -813,7 +806,14 @@
     herself, “What would a healthy person do?” All day long, she would use this
     question as a guide. Would a healthy person walk or take a cab? Would a
     healthy person order a burrito or a salad? She figured if she acted like a
-    healthy person long enough, eventually she would become that person. She was
+    healthy person long enough, eventually she would become that person.
+    
+    
+    
+    
+    
+    
+    She was
     right. The concept of identity-based habits is our first introduction to
     another key theme in this book: feedback loops. Your habits shape your
     identity, and your identity shapes your habits. It’s a two-way street. The
