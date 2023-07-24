@@ -806,14 +806,7 @@
     herself, “What would a healthy person do?” All day long, she would use this
     question as a guide. Would a healthy person walk or take a cab? Would a
     healthy person order a burrito or a salad? She figured if she acted like a
-    healthy person long enough, eventually she would become that person.
-    
-    
-    
-    
-    
-    
-    She was
+    healthy person long enough, eventually she would become that person. She was
     right. The concept of identity-based habits is our first introduction to
     another key theme in this book: feedback loops. Your habits shape your
     identity, and your identity shapes your habits. It’s a two-way street. The
@@ -899,7 +892,14 @@
     playing video games relaxes you. You’re exploring, exploring, exploring, and
     then—BAM—a reward. After you stumble upon an unexpected reward, you alter
     your strategy for next time. Your brain immediately begins to catalog the
-    events that preceded the reward. Wait a minute—that felt good. What did I do
+    events that preceded the reward. Wait a minute—that felt good. 
+    
+    
+    
+    
+    
+    
+    What did I do
     right before that? This is the feedback loop behind all human behavior: try,
     fail, learn, try differently. With practice, the useless movements fade away
     and the useful actions get reinforced. That’s a habit forming. Whenever you
