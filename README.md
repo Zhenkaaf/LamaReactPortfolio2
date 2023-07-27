@@ -892,14 +892,7 @@
     playing video games relaxes you. You’re exploring, exploring, exploring, and
     then—BAM—a reward. After you stumble upon an unexpected reward, you alter
     your strategy for next time. Your brain immediately begins to catalog the
-    events that preceded the reward. Wait a minute—that felt good. 
-    
-    
-    
-    
-    
-    
-    What did I do
+    events that preceded the reward. Wait a minute—that felt good. What did I do
     right before that? This is the feedback loop behind all human behavior: try,
     fail, learn, try differently. With practice, the useless movements fade away
     and the useful actions get reinforced. That’s a habit forming. Whenever you
@@ -991,7 +984,13 @@
     dunk a basketball but can’t jump high enough to reach the hoop, well, you’re
     out of luck. Finally, the response delivers a reward. Rewards are the end
     goal of every habit. The cue is about noticing the reward. The craving is
-    about wanting the reward. The response is about obtaining the reward. We
+    about wanting the reward. The response is about obtaining the reward.
+    
+    
+    
+    
+    
+    We
     chase rewards because they serve two purposes: (1) they satisfy us and (2)
     they teach us. The first purpose of rewards is to satisfy your craving. Yes,
     rewards provide benefits on their own. Food and water deliver the energy you
