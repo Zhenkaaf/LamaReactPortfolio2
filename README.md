@@ -984,13 +984,7 @@
     dunk a basketball but can’t jump high enough to reach the hoop, well, you’re
     out of luck. Finally, the response delivers a reward. Rewards are the end
     goal of every habit. The cue is about noticing the reward. The craving is
-    about wanting the reward. The response is about obtaining the reward.
-    
-    
-    
-    
-    
-    We
+    about wanting the reward. The response is about obtaining the reward. We
     chase rewards because they serve two purposes: (1) they satisfy us and (2)
     they teach us. The first purpose of rewards is to satisfy your craving. Yes,
     rewards provide benefits on their own. Food and water deliver the energy you
@@ -1090,7 +1084,9 @@
     claim that these four laws are an exhaustive framework for changing any
     human behavior, but I think they’re close. As you will soon see, the Four
     Laws of Behavior Change apply to nearly every field, from sports to
-    politics, art to medicine, comedy to management. These laws can be used no
+    politics, art to medicine, comedy to management. 
+    
+    These laws can be used no
     matter what challenge you are facing. There is no need for completely
     different strategies for each habit. Whenever you want to change your
     behavior, you can simply ask yourself: 1. How can I make it obvious? 2. How
