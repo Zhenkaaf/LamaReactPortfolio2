@@ -1084,9 +1084,7 @@
     claim that these four laws are an exhaustive framework for changing any
     human behavior, but I think they’re close. As you will soon see, the Four
     Laws of Behavior Change apply to nearly every field, from sports to
-    politics, art to medicine, comedy to management. 
-    
-    These laws can be used no
+    politics, art to medicine, comedy to management. These laws can be used no
     matter what challenge you are facing. There is no need for completely
     different strategies for each habit. Whenever you want to change your
     behavior, you can simply ask yourself: 1. How can I make it obvious? 2. How
@@ -1157,7 +1155,9 @@
     to breathe, or your stomach to digest. And yet your body handles all this
     and more on autopilot. You are much more than your conscious self. Consider
     hunger. How do you know when you’re hungry? You don’t necessarily have to
-    see a cookie on the counter to realize that it is time to eat. Appetite and
+    see a cookie on the counter to realize that it is time to eat. 
+    
+    Appetite and
     hunger are governed nonconsciously. Your body has a variety of feedback
     loops that gradually alert you when it is time to eat again and that track
     what is going on around you and within you. Cravings can arise thanks to
