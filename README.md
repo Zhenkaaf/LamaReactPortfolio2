@@ -1155,9 +1155,7 @@
     to breathe, or your stomach to digest. And yet your body handles all this
     and more on autopilot. You are much more than your conscious self. Consider
     hunger. How do you know when you’re hungry? You don’t necessarily have to
-    see a cookie on the counter to realize that it is time to eat. 
-    
-    Appetite and
+    see a cookie on the counter to realize that it is time to eat. Appetite and
     hunger are governed nonconsciously. Your body has a variety of feedback
     loops that gradually alert you when it is time to eat again and that track
     what is going on around you and within you. Cravings can arise thanks to
@@ -1224,7 +1222,9 @@
     consciously think about it. And when we’ve done something a thousand times
     before, we begin to overlook things. We assume that the next time will be
     just like the last. We’re so used to doing what we’ve always done that we
-    don’t stop to question whether it’s the right thing to do at all. Many of
+    don’t stop to question whether it’s the right thing to do at all. 
+    
+    Many of
     our failures in performance are largely attributable to a lack of
     self-awareness. One of our greatest challenges in changing habits is
     maintaining awareness of what we are actually doing. This helps explain why
