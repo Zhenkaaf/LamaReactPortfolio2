@@ -1222,9 +1222,7 @@
     consciously think about it. And when we’ve done something a thousand times
     before, we begin to overlook things. We assume that the next time will be
     just like the last. We’re so used to doing what we’ve always done that we
-    don’t stop to question whether it’s the right thing to do at all. 
-    
-    Many of
+    don’t stop to question whether it’s the right thing to do at all. Many of
     our failures in performance are largely attributable to a lack of
     self-awareness. One of our greatest challenges in changing habits is
     maintaining awareness of what we are actually doing. This helps explain why
@@ -1300,7 +1298,9 @@
     the “motivation” group. They were asked not only to track their workouts but
     also to read some material on the benefits of exercise. The researchers also
     explained to the group how exercise could reduce the risk of coronary heart
-    disease and improve heart health. Finally, there was the third group. These
+    disease and improve heart health. Finally, there was the third group. 
+    
+    These
     subjects received the same presentation as the second group, which ensured
     that they had equal levels of motivation. However, they were also asked to
     formulate a plan for when and where they would exercise over the following
