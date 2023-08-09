@@ -1298,9 +1298,7 @@
     the “motivation” group. They were asked not only to track their workouts but
     also to read some material on the benefits of exercise. The researchers also
     explained to the group how exercise could reduce the risk of coronary heart
-    disease and improve heart health. Finally, there was the third group. 
-    
-    These
+    disease and improve heart health. Finally, there was the third group. These
     subjects received the same presentation as the second group, which ensured
     that they had equal levels of motivation. However, they were also asked to
     formulate a plan for when and where they would exercise over the following
@@ -1401,7 +1399,9 @@
     follow this cycle. You often decide what to do next based on what you have
     just finished doing. Going to the bathroom leads to washing and drying your
     hands, which reminds you that you need to put the dirty towels in the
-    laundry, so you add laundry detergent to the shopping list, and so on. No
+    laundry, so you add laundry detergent to the shopping list, and so on.
+    
+    No
     behavior happens in isolation. Each action becomes a cue that triggers the
     next behavior. Why is this important? When it comes to building new habits,
     you can use the connectedness of behavior to your advantage. One of the best
