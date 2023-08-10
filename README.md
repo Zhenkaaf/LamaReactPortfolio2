@@ -1399,9 +1399,7 @@
     follow this cycle. You often decide what to do next based on what you have
     just finished doing. Going to the bathroom leads to washing and drying your
     hands, which reminds you that you need to put the dirty towels in the
-    laundry, so you add laundry detergent to the shopping list, and so on.
-    
-    No
+    laundry, so you add laundry detergent to the shopping list, and so on. No
     behavior happens in isolation. Each action becomes a cue that triggers the
     next behavior. Why is this important? When it comes to building new habits,
     you can use the connectedness of behavior to your advantage. One of the best
@@ -1511,7 +1509,9 @@
     alter the “choice architecture” of the hospital cafeteria. They started by
     changing how drinks were arranged in the room. Originally, the refrigerators
     located next to the cash registers in the cafeteria were filled with only
-    soda. The researchers added water as an option to each one. Additionally,
+    soda. The researchers added water as an option to each one. 
+    
+    Additionally,
     they placed baskets of bottled water next to the food stations throughout
     the room. Soda was still in the primary refrigerators, but water was now
     available at all drink locations. Over the next three months, the number of
