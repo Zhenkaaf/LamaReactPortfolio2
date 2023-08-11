@@ -1509,9 +1509,7 @@
     alter the “choice architecture” of the hospital cafeteria. They started by
     changing how drinks were arranged in the room. Originally, the refrigerators
     located next to the cash registers in the cafeteria were filled with only
-    soda. The researchers added water as an option to each one. 
-    
-    Additionally,
+    soda. The researchers added water as an option to each one. Additionally,
     they placed baskets of bottled water next to the food stations throughout
     the room. Soda was still in the primary refrigerators, but water was now
     available at all drink locations. Over the next three months, the number of
@@ -1598,7 +1596,10 @@
     behavior. It’s easy not to practice the guitar when it’s tucked away in the
     closet. It’s easy not to read a book when the bookshelf is in the corner of
     the guest room. It’s easy not to take your vitamins when they are out of
-    sight in the pantry. When the cues that spark a habit are subtle or hidden,
+    sight in the pantry.
+    
+    
+    When the cues that spark a habit are subtle or hidden,
     they are easy to ignore. By comparison, creating obvious visual cues can
     draw your attention toward a desired habit. In the early 1990s, the cleaning
     staff at Schiphol Airport in Amsterdam installed a small sticker that looked
