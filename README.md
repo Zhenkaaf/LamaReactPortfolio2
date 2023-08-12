@@ -1596,10 +1596,7 @@
     behavior. It’s easy not to practice the guitar when it’s tucked away in the
     closet. It’s easy not to read a book when the bookshelf is in the corner of
     the guest room. It’s easy not to take your vitamins when they are out of
-    sight in the pantry.
-    
-    
-    When the cues that spark a habit are subtle or hidden,
+    sight in the pantry. When the cues that spark a habit are subtle or hidden,
     they are easy to ignore. By comparison, creating obvious visual cues can
     draw your attention toward a desired habit. In the early 1990s, the cleaning
     staff at Schiphol Airport in Amsterdam installed a small sticker that looked
@@ -1700,7 +1697,9 @@
     primary use. The kitchen was for cooking. The office was for working.
     Whenever possible, avoid mixing the context of one habit with another. When
     you start mixing contexts, you’ll start mixing habits— and the easier ones
-    will usually win out. This is one reason why the versatility of modern
+    will usually win out. 
+    
+    This is one reason why the versatility of modern
     technology is both a strength and a weakness. You can use your phone for all
     sorts of tasks, which makes it a powerful device. But when you can use your
     phone to do nearly anything, it becomes hard to associate it with one task.
